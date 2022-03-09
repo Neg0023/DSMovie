@@ -77,13 +77,16 @@ a, a:hover {
     align-items: center;
     padding: 10px 0px 20px 0px;
     background-color: var(--white);
+    justify-content: space-between;
     border-radius: 0 0 8px 8px;
+    min-height: 150px;
 }
 
 .dsmovie-card-description h3{
     font-size: 14px;
     font-weight: 700;
     margin-bottom: 25px;
+    text-align: center;
 }
 
 .dsmovie-btn, .dsmovie-btn:hover{

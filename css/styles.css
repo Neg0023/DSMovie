@@ -18,8 +18,8 @@ h1, h2, h3, h4, h5, h6{
 
 html, body{
     background: var(--bg-gray);
-
 }
+
 header {
     background: var(--color-primary);
     color: var(--white);
@@ -100,4 +100,9 @@ a, a:hover {
     align-items: center;
     justify-content: center;
     border-radius: 4px;
+}
+
+.dsmovie-form-container{
+    padding: 40px;
+    max-width: 480px;
 }
